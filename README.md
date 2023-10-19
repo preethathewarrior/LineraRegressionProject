@@ -1,7 +1,5 @@
 # LineraRegressionProject
 
-# Data Preprocessing Project
-
 
 #### Problem Description
 A Chinese automobile company aspires to enter the US market by setting up their manufacturing
